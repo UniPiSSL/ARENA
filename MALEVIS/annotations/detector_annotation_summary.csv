@@ -1,0 +1,6 @@
+name,rows,clean_rows,adv_rows
+train_detector_annotations,18148,9074,9074
+eval_detector_annotations,5126,2563,2563
+unknown_adversarial_fgsm_RNN_detector_annotations,5126,2563,2563
+unknown_adversarial_PGD_detector_annotations,5126,2563,2563
+train_semisupervised_detector_annotations,18148,9074,9074

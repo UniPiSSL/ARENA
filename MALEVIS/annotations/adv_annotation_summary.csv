@@ -1,0 +1,7 @@
+attack_folder,rows,csv_path,train_rows,val_rows,test_rows
+ANN_fgsm,14200,/nfs1/ssl_lab/malevis_adversarial_repro/data/annotations/adv_annotations/Annotations_ANN_fgsm.csv,9074,2563,2563
+ANN_pgd,14200,/nfs1/ssl_lab/malevis_adversarial_repro/data/annotations/adv_annotations/Annotations_ANN_pgd.csv,9074,2563,2563
+CNN_fgsm,14200,/nfs1/ssl_lab/malevis_adversarial_repro/data/annotations/adv_annotations/Annotations_CNN_fgsm.csv,9074,2563,2563
+CNN_pgd,14200,/nfs1/ssl_lab/malevis_adversarial_repro/data/annotations/adv_annotations/Annotations_CNN_pgd.csv,9074,2563,2563
+RNN_fgsm,14200,/nfs1/ssl_lab/malevis_adversarial_repro/data/annotations/adv_annotations/Annotations_RNN_fgsm.csv,9074,2563,2563
+RNN_pgd,14200,/nfs1/ssl_lab/malevis_adversarial_repro/data/annotations/adv_annotations/Annotations_RNN_pgd.csv,9074,2563,2563
